@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: url('../../img/js.png') no-repeat center center/cover;
+}
